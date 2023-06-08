@@ -8,6 +8,7 @@
 ### Mes reseaux Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-aissan/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:roger.aissan@gmail.com)
 
 # Mes compétences techniques:
 
