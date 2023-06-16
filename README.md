@@ -1,10 +1,10 @@
 ## Hello  👋
 #  Qui suis-je ?:
-#### 👋 Hi, I’m @Roger0753<br> 
-#### 💝 I’m interested in developing my skills in coding and web creations.<br> 
-#### 💖 💻 📒 I’m currently learning Symfony.<br>
-#### ✍ I’m looking to collaborate on différent projects that can boost my web culture.<br>
-#### 📞 ☎️ How to reach me ? You can use my LinkedIn : Aissan Roger.<br>
+#### 👋 Hi, je suis @Roger0753<br> 
+#### 💝 Je suis passionné par le métier du développement web et applications.<br> 
+#### 💖 💻 📒 Actuellement je suis entrain d'apprendre à développer en Symfony.<br>
+#### ✍ Je suis curieux et j'aime les défis ; je serais ravi de collaborer sur les futurs projets de développement web.<br>
+#### 📞 ☎️ Comment me contacter? Vous pouvez consulter mon profil LinkedIn : Aissan Roger.<br>
 ### Mes reseaux Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-aissan/)
