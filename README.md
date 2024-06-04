@@ -1,8 +1,8 @@
 ## Hello  👋
 #  Qui suis-je ?:
 #### 👋 Hi, je suis @Roger0753<br> 
-#### 💝 Je suis passionné par le métier du développement web et applications.<br> 
-#### 💖 💻 📒 Actuellement je suis entrain d'apprendre à développer en Symfony.<br>
+#### 💝 Je suis passionné par le métier de concepteur Développeur d'Applications.<br> 
+#### 💖 💻 📒 Actuellement je suis en apprentissage en tant que Concepteur Développeur d'Applications chez IPSO - FACTO, avec les technos PHP/Symfony et JAVA/Spring Boot.<br>
 #### ✍ Je suis curieux et j'aime les défis ; je serais ravi de collaborer sur les futurs projets de développement web.<br>
 #### 📞 ☎️ Comment me contacter? Vous pouvez consulter mon profil LinkedIn : Aissan Roger.<br>
 ### Mes reseaux Socials:
